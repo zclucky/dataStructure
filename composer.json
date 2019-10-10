@@ -1,0 +1,11 @@
+{
+  "name": "myxxqy/php",
+  "description": "数据结构与算法",
+  "type": "project",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "myxxqy_01\\": "linkedlist/"
+    }
+  }
+}
