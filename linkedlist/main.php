@@ -15,7 +15,7 @@ $link->append("b");
 $link->append("c");
 $link->insert(1,"d");
 //echo $link->getLength();
-var_dump($link->delete("d"));c
+var_dump($link->delete("d"));
 //var_dump($link->exists("a"));
 var_dump($link->exists("b"));
 var_dump($link->travel());
